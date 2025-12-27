@@ -1,16 +1,28 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5h8p4C4/snt.png" group-title="PARAGUAY",SNT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5h8p4C4/snt.png",SNT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=nmHc7occxBrrIG0FAij8MA==:n2JIGUo79eNbkrGU6GJGkw==
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693
 https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_C/SNT_C4.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/telefuturo.png" group-title="PARAGUAY",TELEFUTURO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/telefuturo.png",TELEFUTURO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=XSczz4pZt3Q471nYjNiCvw==:P0EvpjaLfbsQA1jWaXR3AQ==
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1
 https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO_C4.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPKH8zGj/trecepy.png" group-title="PARAGUAY",TRECE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPKH8zGj/trecepy.png",TRECE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=qAk83LLVBL04+WdkvSG25Q==:v88/AztfC1rgIHUaZ0Yybw==
-https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd 
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzRp7xy9/unicanal.png",UNICANAL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd
